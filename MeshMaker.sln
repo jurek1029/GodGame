@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMaker.CSharp.Plugins", "MeshMaker.CSharp.Plugins.csproj", "{A40946D1-4B4C-5179-06A7-36FED9A64CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMaker.CSharp", "MeshMaker.CSharp.csproj", "{3F794112-2B07-923B-7EC8-CD7D2AD18CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshMaker.CSharp.Editor", "MeshMaker.CSharp.Editor.csproj", "{0ED6FB71-8A9E-527C-356F-8F37A8A699A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40946D1-4B4C-5179-06A7-36FED9A64CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40946D1-4B4C-5179-06A7-36FED9A64CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40946D1-4B4C-5179-06A7-36FED9A64CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40946D1-4B4C-5179-06A7-36FED9A64CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F794112-2B07-923B-7EC8-CD7D2AD18CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F794112-2B07-923B-7EC8-CD7D2AD18CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F794112-2B07-923B-7EC8-CD7D2AD18CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F794112-2B07-923B-7EC8-CD7D2AD18CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED6FB71-8A9E-527C-356F-8F37A8A699A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED6FB71-8A9E-527C-356F-8F37A8A699A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED6FB71-8A9E-527C-356F-8F37A8A699A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED6FB71-8A9E-527C-356F-8F37A8A699A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
